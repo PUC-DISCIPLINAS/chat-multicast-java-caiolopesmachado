@@ -26,4 +26,3 @@ Use este de exemplo:
 ###Comandos Emplementados:
 
 !criarSala;Nome da Sala;228.5.6.7   -> este inicia com o comando + o nome da sala de sua preferencia + um IP multicast, ele serve para criar salas de chat.
-
