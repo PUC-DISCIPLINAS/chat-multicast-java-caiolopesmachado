@@ -30,29 +30,37 @@ No final do comando apenas precione a tecla Enter
 
 #### Criar Sala
 > !criarSala;exemploDeNomeDeSala;228.5.6.7
+> 
 > Descrição :
+> 
 > !comando; o nome da sala;Ip Multicast
-> Função :
-> Serve para criar salas de chat multicast.
 
 #### Listar Salas Criadas
 > !listarSalas
+> 
 > Descrição :
+> 
 > !comando
 
 #### Listar Membros da Sala
 > !listarParticipantes;ExemploDeNomeDeSalaJáCriada
+> 
 > Descrição :
+> 
 > !comando; o nome da sala já criada
 
 #### Remover Sala
 > !removerSala;ExemploDeNomeDeSalaJáCriada
+> 
 > Descrição :
+> 
 > !comando; o nome da sala já criada
 
 #### Entrar na Sala
 > !entrar;ExemploDeNomeDeSalaJáCriada
+> 
 > Descrição :
+> 
 > !comando; o nome da sala já criada
 
 #### Envia/Escrever Mensagem
@@ -60,7 +68,9 @@ No final do comando apenas precione a tecla Enter
 
 #### Sair da Sala
 > !quit
+> 
 > o programa será fechado e você saira da sala
+> 
 > ATENÇÃO -> só poderá executar este comando apos executar !entrar;nomeDaSala com sucesso
 
 ## Extra
