@@ -86,7 +86,7 @@ No final do comando apenas precione a tecla Enter
     - A classe Sala.java ou Sala.class é responsavel por representar uma sala, armazenar os participantes e armazenar informações sobre a sala como nome e ip Multicast
 
 4. MulticastListener
-    - A classe MulticastListener.java ou MulticastListener.class é responsavel por fazer a conexão multicast usando uma Thread para resceber mensagens.
+    - A classe MulticastListener.java ou MulticastListener.class é responsavel por fazer a conexão multicast usando uma Thread para resceber e enviar mensagens.
 
 ## Extra 
 
