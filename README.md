@@ -1,6 +1,6 @@
 # Trabalho de Chat Multicast em java
 
-* Caio Lopes Machado Magnani *
+ **Caio Lopes Machado Magnani**
 
 ## Como usar:
 
